@@ -1,0 +1,6 @@
+package com.dev.dscatalog.resources;
+
+@RestController
+public class CategoryResource {
+
+}
