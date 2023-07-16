@@ -2048,3 +2048,9 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-16 17:11:49.958
+!MESSAGE Classpath changed for project: dscatalog
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-16 17:15:04.602
+!MESSAGE Classpath changed for project: dscatalog
