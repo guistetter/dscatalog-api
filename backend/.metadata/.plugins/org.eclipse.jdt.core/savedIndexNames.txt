@@ -34,7 +34,6 @@ INDEX VERSION 1.134+/home/guilherme/Documentos/nelioWks/crud/backend/.metadata/.
 456480064.index
 91331103.index
 1370467069.index
-4174158793.index
 3176588811.index
 4109200429.index
 1534277090.index

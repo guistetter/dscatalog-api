@@ -1,0 +1,5 @@
+package com.dev.dscatalog.dto;
+
+public class CategoryDTO {
+
+}
